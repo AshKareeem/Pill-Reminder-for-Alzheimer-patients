@@ -31,7 +31,7 @@ const int DaySensorPin[] = {23, 22, 21, 19, 18, 5, 4}; // Sensors for each day
 const char *daysOfWeek[] = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
 String pillMessage = "Take the pill!";
 
-const int buzzerPin = 15;
+const int buzzerPin = 16;
 
 // Day and status variables
 int currentDayIndex = 0; // Index for the current day
