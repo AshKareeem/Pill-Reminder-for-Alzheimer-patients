@@ -41,7 +41,7 @@ The system operates by cycling through the days of the week. For the active day,
 *Note: The system utilizes 7 sensors connected to the ESP32 GPIO pins, alongside an LCD and Buzzer.*
 
 <div align = "center">
-<img width="600" alt="Circuit_Schematic" src="https://via.placeholder.com/600x300?text=Circuit+Schematic+(ESP32+%2B+Sensors+%2B+LCD)" />
+<img width="600" alt="Circuit_Schematic" src="https://github.com/AshKareeem/Pill-Reminder-for-Alzheimer-patients/blob/3423079e2657d214e663397688dcdd1c6212f798/image.png" />
 </div>
 
 ---
