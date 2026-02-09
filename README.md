@@ -68,5 +68,5 @@ The ESP32 generates a simple HTML dashboard accessible by connecting to the "Pil
 * **Updates:** The page includes JavaScript to reload automatically, providing near real-time updates for the caregiver.
 
 <div align = "center">
-<img width="300" alt="Web_Interface" src="https://via.placeholder.com/300x500?text=Web+Interface+Screenshot" />
+The Web Interface is connected to the local IP-Address of the ESP-Hotsopt 
 </div>
